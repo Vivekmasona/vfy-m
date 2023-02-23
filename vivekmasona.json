@@ -18,12 +18,6 @@
 		"org": "Render"
 	},
 	{
-		"name": "vivekfy.adminforge.de",
-		"locations": "🇩🇪",
-		"api_url": "https://musicapi.adminforge.de",
-		"org": "adminforge.de"
-	}
-	{
 		"name": "vivekfy.whatever.social",
 		"locations": "🇺🇸",
 		"api_url": "https://listenapi.whatever.social",
