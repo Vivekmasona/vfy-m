@@ -1,5 +1,11 @@
 [
         {
+		"name": "vfybackend.onrender.com",
+		"locations": "🇩🇪",
+		"api_url": "https://vfybackend.onrender.com",
+		"org": "Render"
+	},
+        {
 		"name": "vivekfy.original.api",
 		"locations": "🇨🇦",
 		"api_url": "https://hyperpipeapi.esmailelbob.xyz",
