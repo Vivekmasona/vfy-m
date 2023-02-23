@@ -18,11 +18,11 @@
 		"org": "Render"
 	},
 	{
-		"name": "vivekfy.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
-		"locations": "🇨🇦",
-		"api_url": "http://hyperpipeapi.lqs5fjmajyp7rvp4qvyubwofzi6d4imua7vs237rkc4m5qogitqwrgyd.onion",
-		"org": "OVH SAS"
-	},
+		"name": "vivekfy.adminforge.de",
+		"locations": "🇩🇪",
+		"api_url": "https://musicapi.adminforge.de",
+		"org": "adminforge.de"
+	}
 	{
 		"name": "vivekfy.whatever.social",
 		"locations": "🇺🇸",
