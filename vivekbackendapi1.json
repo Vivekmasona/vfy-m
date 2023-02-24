@@ -1,5 +1,11 @@
 [
         {
+		"name": "vivekfy.esmailelbob.xyz",
+		"locations": "🇨🇦",
+		"api_url": "https://hyperpipeapi.esmailelbob.xyz",
+		"org": "OVH SAS"
+	},
+        {
 		"name": "vivekmasona.onrender.com",
 		"locations": "🇮🇳",
 		"api_url": "https://vivekmasona.onrender.com",
